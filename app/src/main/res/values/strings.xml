@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="button">Calculate</string>
+    <string name="carprice">Car Price</string>
+    <string name="downpayment">Down Payment</string>
+    <string name="loanperiod">Loan Period</string>
+    <string name="interestrate">Interest Rate</string>
+    <string name="carloan">Car Loan</string>
+    <string name="interestamount">Interest Amount</string>
+    <string name="repayment">Repayment</string>
+</resources>
